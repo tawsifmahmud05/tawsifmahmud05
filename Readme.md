@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tawsif Mahmud</h1>
-<h3 align="center">A Trainee Software Engineer and Researcher</h3>
+<h3 align="center">Software Engineer and Researcher</h3>
 
 - 🔭 I’m currently working on **Computer Vision based Project**
 
