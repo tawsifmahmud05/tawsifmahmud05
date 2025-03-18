@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Computer Vision Project**
 
-- 🌱 I’m currently learning **C#, .Net,**
+- 🌱 I’m currently learning **PostgreSQL, Apache Airflow**
 
 - 💬 Ask me about **angular, flutter and python**
 
